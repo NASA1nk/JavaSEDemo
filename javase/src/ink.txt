@@ -1,0 +1,4 @@
+ink.txt
+hello yinke
+hi ink
+文件内容
